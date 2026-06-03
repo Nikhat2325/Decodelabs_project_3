@@ -247,7 +247,9 @@ Response:
 {
     "message": "Student Deleted Successfully"
 }
-```
+
+```<img width="639" height="447" alt="Screenshot 2026-06-04 014306" src="https://github.com/user-attachments/assets/2b1067d7-c0a8-43b8-9017-98ed6185d5ba" />
+
 
 Status Code:
 
