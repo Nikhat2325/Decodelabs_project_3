@@ -248,7 +248,7 @@ Response:
     "message": "Student Deleted Successfully"
 }
 
-```<img width="639" height="447" alt="Screenshot 2026-06-04 014306" src="https://github.com/user-attachments/assets/2b1067d7-c0a8-43b8-9017-98ed6185d5ba" />
+<img width="639" height="447" alt="Screenshot 2026-06-04 014306" src="https://github.com/user-attachments/assets/2b1067d7-c0a8-43b8-9017-98ed6185d5ba" />
 
 
 Status Code:
@@ -399,4 +399,4 @@ Through this project, I learned:
 * Teacher Management APIs
 * Student Profile APIs
 * Deployment on Cloud
-<img width="671" height="524" alt="Screenshot 2026-06-04 014237" src="https://github.com/user-attachments/assets/bac889ba-5c07-42bf-8cde-c5d1d922bd90" />
+
